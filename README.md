@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is `Bhavya`, and I am a first-year undergraduate student at **VIT Bhopal**.
+My name is `Bhavya`, and I am a second-year undergraduate student at **VIT Bhopal**.
 
 * 🎓 **Branch:**            B.Tech CSE (Cloud Computing and Automation)
 * 🌱 **Learning Interest:** AI/ML and Cloud infrastructure
