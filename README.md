@@ -6,4 +6,4 @@ My name is `Bhavya`, and I am a second-year undergraduate student at **VIT Bhopa
 * 🌱 **Learning Interest:** AI/ML and Cloud infrastructure
 * 🧠 **Current Focus:**     C++ and DSA 
 * 📫 **How to reach me:**   bhavyakushwaha.work@gmail.com
-* 🌐 **My Portfolio:**      [bhavyakush-portfolio.vercel.app](https://bhavyakush-portfolio.vercel.app/)
+* 🌐 **My Portfolio:**      [https://bhavyakush-portfolio.vercel.app/](https://bhavyakush.framer.website/#skills))
